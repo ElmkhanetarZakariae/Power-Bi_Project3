@@ -1,6 +1,6 @@
 # Project: Sales Overview Analysis Dashboard
 # Business Requirement
-This project involves designing a dynamic Power BI dashboard to track and analyze key sales metrics Sales, Profit, and Quantity—across four different regions: Central, East, South, and West. The dashboard is designed to enable users to filter by year and toggle between the three metrics, providing insights into trends and comparisons with the previous year (PY) for each selected year.
+This project involves designing a dynamic Power BI dashboard to track and analyze key sales metrics Sales, Profit, and Quantity across four different regions: Central, East, South, and West. The dashboard is designed to enable users to filter by year and toggle between the three metrics, providing insights into trends and comparisons with the previous year (PY) for each selected year.
 # Key Features
 - Dynamic Filtering & Metric Selection: Users can filter the data by year and choose between three key metrics—Sales, Profit, and Quantity—for each region.
 - Year-on-Year Comparison: The dashboard compares the selected year's metrics with the previous year's (PY) data.
